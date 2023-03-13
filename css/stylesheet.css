@@ -128,8 +128,8 @@ display: none;
     display: inline-block;
 }
 .jaafar{
-    font-size: 4em;
-    letter-spacing: 10px;
+    font-size: 1em;
+    letter-spacing: 5px;
     font-family: monospace;
     border-right: 5px solid;
     width: 100%;
